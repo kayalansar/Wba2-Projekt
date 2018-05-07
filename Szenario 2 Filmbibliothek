@@ -1,0 +1,22 @@
+Eine Webanwendung werden, in dem man Filme ausgeliehen oder eventuell auch gekauft werden könnnen. Für die Benutzung 
+dieser Webanwendung muss sich sich der Benutzer einmalig registrieren und dabei seinen vollständigen Namen und EMail adresse 
+hinterlegen. Es wird verlangt das der Kunde für seinen Account einen Passwort festlegt. Eine Datenbank speichert die Benutzerdaten
+und mittels einer Bestätigungsmail wird der Kunde darüber informiert seinen Account benutzen zu können.
+
+In der Weboberfläche sieht der Benutzer nicht nur die Filme, die zur Auswahl stehen auch den Preis für die Ausleihe
+und auch für den Kauf. Die Filme werden in mehreren Kategoriene unterteilt: Genre, die Schaspieler, das Erscheinungsdatum, usw.
+
+Der Benutzer müssen im Bibliothek angemeldet sein um die Filme ausleihen zu können. Bei einer Rückgabe der Filme kategoriert die
+Webanwendung:
+
+-- Die Filme wurden Problemlos in dem Leihfenster wieder zurückgegeben
+-- Es fallen noch Mahngebühren an, um eine erfolgreiche zurücknahme gewährleisten zu können.
+
+In der Regel werden bei einer ausleihe verlangt die Filme in einem Zeitraum von 30 tagen, die Filme wieder an die Bibliothek
+zurück zu geben wird diese Frist überschritten fallen eine Mahngebühr von 2€ an.
+
+Die bereits von anderen Benutzern ausgeliehenen Filme werden mit dem Rückgabedatum angezeigt und eine Resevierung für diese 
+durch andere Benutzer ist auch möglich.
+
+
+
